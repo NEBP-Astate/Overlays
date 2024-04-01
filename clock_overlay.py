@@ -11,7 +11,7 @@ while True:
     current_time_str = current_time.strftime("%Y-%m-%d %H:%M:%S")
 
     # Calculate the time of totality in Morrilton
-    totality_time = datetime.datetime(2024, 4, 1, 14, 58, 00)
+    totality_time = datetime.datetime(2024, 4, 8, 13, 50, 32)
     totality_time_str = totality_time.strftime("%H:%M:%S")
 
     # Calculate the time left until totality
