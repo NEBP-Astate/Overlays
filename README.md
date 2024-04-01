@@ -7,6 +7,6 @@
   <li>Add a new Source using "+" button</li>
   <li>Choose the "Text (GDI+)" option</li>
   <li>Create a new Source and name it approptiately</li>
-  <li>Check the "Read from file" text box and select desired output file</li>
+  <li>Check the "Read from file" text box and select the desired output file</li>
   <li>Modify appearance to liking</li>
 </ul>
